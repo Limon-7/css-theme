@@ -1,0 +1,25 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limon-7/css-theme.git"
+  },
+  "author": "limon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Limon-7/css-theme/issues"
+  },
+  "homepage": "https://github.com/Limon-7/css-theme#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
